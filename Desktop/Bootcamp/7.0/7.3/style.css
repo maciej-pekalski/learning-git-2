@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body {
+    background-color: azure;
+}
+h1, h2 {
+    overflow: hidden;
+    text-align: center;
+    font-size: 30px;
+}
+.chapter-1, .chapter-2, .chapter-3 {
+    text-align: justify;
+    padding: 15px 15px;
+    font-size: 20px;
+}
+.footer {
+    text-align: center;
+    color: red;
+    font-size: large;
+}
