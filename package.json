@@ -1,7 +1,7 @@
 {
   "name": "7.5.1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Link: https://maciej-pekalski.github.io/learning-git-2/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
-  }
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciej-pekalski/learning-git-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maciej-pekalski/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/maciej-pekalski/learning-git-2#readme"
 }
